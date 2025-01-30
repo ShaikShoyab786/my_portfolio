@@ -1,0 +1,47 @@
+.gradient-background {
+    background: linear-gradient(300deg, #B1C29E, #FCE7C8, #b5a3a0);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+.port{
+  border-radius: 50%;
+}
+
+#pro{
+    font-family: "Dancing Script", serif;
+    font-weight: bold;      
+}
+#para{
+    font-family: "Alegreya", serif;
+    font-size: medium;
+    font-weight:bolder;
+}
+
+#mypic{
+    border-radius: 50%;  
+}
+.icon-square {
+    width: 4rem;
+    height: 3rem;
+    border-radius: .75rem;
+  }
+
+  .feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
+
+  .feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+  }
+  .card-cover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+
+
+
